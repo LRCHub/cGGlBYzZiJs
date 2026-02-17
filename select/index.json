@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サヨナラは言わないでさ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-17T13:10:06.290781Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラは言わないでさ",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラは言わないでさ_MIMI,_可不.txt"
+    }
+  ]
+}
